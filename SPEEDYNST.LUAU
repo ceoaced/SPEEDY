@@ -1,6 +1,7 @@
 -- [ Settings ] --
 getgenv().AutoMercenary = true
 getgenv().MercenaryPath = 160
+getgenv().AutoDJ = true
 -- [ End Settings ] --
 
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
